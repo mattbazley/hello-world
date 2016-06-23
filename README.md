@@ -1,2 +1,3 @@
 # hello-world
-The beginning. 
+
+The beginning. Or the end.
